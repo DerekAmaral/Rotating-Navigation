@@ -61,6 +61,8 @@ classDiagram
         - img: Image
         - text: string
     }
+```
+
 
 # Diagrama de Sequência
 
@@ -75,6 +77,8 @@ sequenceDiagram
     ButtonOpen ->> Container: addClass(show-nav)
     User ->> ButtonClose: click()
     ButtonClose ->> Container: removeClass(show-nav)
+```
+
 
 
 Conclusion
