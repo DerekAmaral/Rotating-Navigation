@@ -62,8 +62,9 @@ classDiagram
         - text: string
     }
 
+# Diagrama de Sequência
 
-```M
+```mermaid
 sequenceDiagram
     participant User
     participant Container
@@ -75,7 +76,6 @@ sequenceDiagram
     User ->> ButtonClose: click()
     ButtonClose ->> Container: removeClass(show-nav)
 
-```
 
 Conclusion
 This project demonstrates the integration of HTML, CSS, and JavaScript to create an interactive and visually appealing navigation.
