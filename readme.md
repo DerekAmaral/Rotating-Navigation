@@ -42,7 +42,9 @@ graph TD;
     A --> D[Display Content]
 ```
 
-```M
+# Class Diagram
+
+```mermaid
 classDiagram
     class Container {
         - show-nav: boolean
@@ -60,7 +62,6 @@ classDiagram
         - text: string
     }
 
-```
 
 ```M
 sequenceDiagram
