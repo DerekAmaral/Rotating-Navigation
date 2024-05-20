@@ -32,7 +32,7 @@ Illustrative image.
 UML Diagrams
 Use Case Diagram
 
-```
+```M
 graph TD;
     A[Rotating Navigation]
     A --> B[Open Navigation]
@@ -40,7 +40,7 @@ graph TD;
     A --> D[Display Content]
 ```
 
-```
+```M
 classDiagram
     class Container {
         - show-nav: boolean
@@ -60,7 +60,7 @@ classDiagram
 
 ```
 
-```
+```M
 sequenceDiagram
     participant User
     participant Container
