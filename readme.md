@@ -12,7 +12,7 @@ The interface is enhanced with icons from the Font Awesome library.
 1. Technologies Used
 HTML5: Structure of the page.
 CSS3: Styling and animations.
-JavaScript (ES6): Interactivity.
+JavaScript: Interactivity.
 Libraries:
 Font Awesome: Icons for navigation buttons.
 
