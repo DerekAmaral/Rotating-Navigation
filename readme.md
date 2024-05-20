@@ -32,7 +32,9 @@ Illustrative image.
 UML Diagrams
 Use Case Diagram
 
-```M
+# Rotating Navigation Diagram
+
+```mermaid
 graph TD;
     A[Rotating Navigation]
     A --> B[Open Navigation]
